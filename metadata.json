@@ -1,0 +1,8 @@
+{
+  "name": "HomeNet Smart Control",
+  "description": "A comprehensive smart home dashboard for managing devices, automations, and security. Features AI-powered suggestions and device discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
